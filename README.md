@@ -1,7 +1,27 @@
 #Groupify-Chat-App
 
-[Link](https://groupify-chat-pratyush.netlify.app/)
+## [Link](https://groupify-chat-pratyush.netlify.app/)
 
+### Features
+
+Login Screen : Username and Password given by Admin
+
+![image](https://user-images.githubusercontent.com/51055538/112362258-43ac2580-8cfa-11eb-98db-49b6ce7bb8c9.png)
+
+Once logged in :
+Left side has all the chatroom currently logged in user has
+Left-bottom is use to create new chat-room, if logged in as admin
+Right side has all users in currect chat-room with red(offline) and green(online) status
+Middle is the real-time chat area
+It has even sound notification when there is a message
+You can even send Images in the chat
+Like any other chat-app, It also shows who all have seen the message
+
+![image](https://user-images.githubusercontent.com/51055538/112367494-fe8af200-8cff-11eb-9a49-1fd501bed05f.png)
+
+The underlying chat-app is built with the help of [ChatEngine.io](https://chatengine.io/)
+
+We have made a fully customize chat area(chat Deck!) in our app.
 
 # Getting Started with Create React App
 
